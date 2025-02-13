@@ -5,17 +5,14 @@ This project was generated with the following:
 - Node version 20.18.3
 
 ## Development server
-
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Build
+Some key views:
+## View when loading data
+<img width="1149" alt="Screenshot 2025-02-13 at 22 16 29" src="https://github.com/user-attachments/assets/33c5f98e-0bad-4679-a25c-34d292672674" />
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## View when data is fetched
+<img width="1512" alt="Screenshot 2025-02-14 at 00 26 30" src="https://github.com/user-attachments/assets/678d5b5a-64ed-4f86-bf5a-a963918d96d2" />
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## View when there is no data in response
+<img width="1512" alt="Screenshot 2025-02-14 at 00 24 07" src="https://github.com/user-attachments/assets/469e552c-f8b0-4b26-b2a4-0022f9ee8a5e" />
